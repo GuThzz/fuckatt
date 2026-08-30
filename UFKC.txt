@@ -1,6 +1,7 @@
-||atv-ps.primevideo.com^
+||d1y002tclu9djj.cloudfront.net^
 ||unagi-na.amazon.com^
 ||ipv6.unagi-na.amazon.com^
 ||fls-na.amazon.com^
 ||atv-ps.primevideo.com^
+||
 
