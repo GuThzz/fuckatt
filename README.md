@@ -1,3 +1,1 @@
-||atv-ps.primevideo.com^
-||unagi-na.amazon.com^
-||ipv6.unagi-na.amazon.com^
+
