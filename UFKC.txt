@@ -3,4 +3,4 @@
 ||ipv6.unagi-na.amazon.com^
 ||fls-na.amazon.com^
 ||d1y002tclu9djj.cloudfront.net^
-||atv-ps.primevideo.com^
+
